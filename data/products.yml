@@ -1,4 +1,12 @@
-- name: Some product
-  image: some_product.png
-- name: Other product
-  image: other_product.png
+- name: Hell Is Other Mug
+  image: http://thingd-media-ec1.thefancy.com/default/835190989982276814_ac899a964af7.jpg
+  description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+- name: Goji Smart Lock
+  image: http://thingd-media-ec4.thefancy.com/default/444367117802803927_7aa2ea28644a.jpg
+  description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+- name: Hot Dog Toaster
+  image: http://thingd-media-ec3.thefancy.com/default/166282150943923846_35f4c560bc67.jpg
+  description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+- name: Stem Flavor Spray
+  image: http://thingd-media-ec4.thefancy.com/default/275363169_395a185c4ed4.jpg
+  description: Lorem ipsum dolor sit amet consectetur adipisicing elit.

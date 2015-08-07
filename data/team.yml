@@ -1,0 +1,9 @@
+- name: Steve
+  image: http://pickaface.net/avatar/Opi51c74d0125fd4.png
+  presentation: Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores sequi sed odit tenetur? Necessitatibus ad nulla deleniti quis vel facere hic illum omnis expedita beatae aliquam quibusdam asperiores laborum magni.
+- name: Wolverine
+  image: http://pickaface.net/avatar/Opi51c74ead38850.png
+  presentation: Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores sequi sed odit tenetur? Necessitatibus ad nulla deleniti quis vel facere hic illum omnis expedita beatae aliquam quibusdam asperiores laborum magni.
+- name: Michael
+  image: http://pickaface.net/avatar/Opi51e65b61dcd54.png
+  presentation: Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores sequi sed odit tenetur? Necessitatibus ad nulla deleniti quis vel facere hic illum omnis expedita beatae aliquam quibusdam asperiores laborum magni.

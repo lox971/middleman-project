@@ -1,0 +1,21 @@
+---
+title: Our products
+---
+
+<div class="container">
+  <div class="row">
+
+    <% data.products.each do |products| %>
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+        <%= image_tag products.image %>
+        <div class="caption">
+          <h3> <%= products.name %> </h3>
+          <p> <%= products.description %> </p>
+          <p><a href="#" class="btn btn-primary" role="button">Buy</a> <a href="#" class="btn btn-default" role="button">I want it</a></p>
+        </div>
+      </div>
+    </div>
+    <%end%>
+  </div>
+</div>
